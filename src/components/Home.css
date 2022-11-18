@@ -1,0 +1,44 @@
+#products{
+    width: 500px;
+    height: 100px;
+    border-radius: 30px;
+    border: 3px black solid;
+    background-color:gray;
+    position: relative;
+    left: 650px;
+    color: white;
+
+}
+
+#button{
+    position: relative;
+
+    top: -80px;
+    background-color: black;
+    color: white;
+
+
+}
+
+#button:hover{
+    background-color: grey;
+}
+
+#divs{
+    width: 800px;
+    height: 800px;
+    background-color: whitesmoke;
+    align-items: center;
+    position: relative;
+    top: 400px;
+}
+
+h4.product-title:before{
+    content:'\f07a';
+    font-family:fontawesome;
+    padding-left:10px;
+    }
+
+    hr{
+        color: black;
+    }
