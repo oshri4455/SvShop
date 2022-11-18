@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SvShop/static/css/main.de2141c0.css",
+    "main.css": "/SvShop/static/css/main.7944df9b.css",
     "main.js": "/SvShop/static/js/main.55f17688.js",
     "static/js/787.25081db8.chunk.js": "/SvShop/static/js/787.25081db8.chunk.js",
     "index.html": "/SvShop/index.html",
-    "main.de2141c0.css.map": "/SvShop/static/css/main.de2141c0.css.map",
+    "main.7944df9b.css.map": "/SvShop/static/css/main.7944df9b.css.map",
     "main.55f17688.js.map": "/SvShop/static/js/main.55f17688.js.map",
     "787.25081db8.chunk.js.map": "/SvShop/static/js/787.25081db8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de2141c0.css",
+    "static/css/main.7944df9b.css",
     "static/js/main.55f17688.js"
   ]
 }
